@@ -11,7 +11,7 @@ public class AccessEx {
 		// 멤버의 접근 지정자
 		Sample sample = new Sample();
 		sample.a = 10;
-		sample.b = 10;
+		// sample.b = 10;
 		sample.c = 10;
 		
 		/* 실행 결과 : 오류 발생
